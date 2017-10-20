@@ -1,0 +1,13 @@
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\EstoqueService\EstoqueEntityModel\bin\Debug\EstoqueEntityModel.dll.config
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\EstoqueService\EstoqueEntityModel\bin\Debug\EstoqueEntityModel.dll
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\EstoqueService\EstoqueEntityModel\bin\Debug\EstoqueEntityModel.pdb
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\EstoqueService\EstoqueEntityModel\bin\Debug\EntityFramework.dll
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\EstoqueService\EstoqueEntityModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\EstoqueService\EstoqueEntityModel\bin\Debug\EntityFramework.xml
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\EstoqueService\EstoqueEntityModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\EstoqueService\EstoqueEntityModel\obj\Debug\EstoqueEntityModel.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\EstoqueService\EstoqueEntityModel\obj\Debug\EstoqueEntityModel.dll
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\EstoqueService\EstoqueEntityModel\obj\Debug\EstoqueEntityModel.pdb
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\EstoqueService\EstoqueEntityModel\obj\Debug\EstoqueEntityModel.Migrations.CriacaoDoBanco.resources
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\EstoqueService\EstoqueEntityModel\obj\Debug\EstoqueEntityModel.csproj.GenerateResource.Cache
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\EstoqueService\EstoqueEntityModel\obj\Debug\EstoqueEntityModel.csprojResolveAssemblyReference.cache

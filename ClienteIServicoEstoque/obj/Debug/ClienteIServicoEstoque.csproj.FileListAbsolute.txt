@@ -1,0 +1,7 @@
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\EstoqueService\ClienteIServicoEstoque\obj\Debug\ClienteIServicoEstoque.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\EstoqueService\ClienteIServicoEstoque\obj\Debug\ClienteIServicoEstoque.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\EstoqueService\ClienteIServicoEstoque\bin\Debug\ClienteIServicoEstoque.exe.config
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\EstoqueService\ClienteIServicoEstoque\bin\Debug\ClienteIServicoEstoque.exe
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\EstoqueService\ClienteIServicoEstoque\bin\Debug\ClienteIServicoEstoque.pdb
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\EstoqueService\ClienteIServicoEstoque\obj\Debug\ClienteIServicoEstoque.exe
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\EstoqueService\ClienteIServicoEstoque\obj\Debug\ClienteIServicoEstoque.pdb

@@ -1,0 +1,17 @@
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\EstoqueService\ProvedorEstoqueHost\bin\Debug\ProvedorEstoqueHost.exe.config
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\EstoqueService\ProvedorEstoqueHost\bin\Debug\ProvedorEstoqueHost.exe
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\EstoqueService\ProvedorEstoqueHost\bin\Debug\ProvedorEstoqueHost.pdb
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\EstoqueService\ProvedorEstoqueHost\bin\Debug\EstoqueLibrary.dll
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\EstoqueService\ProvedorEstoqueHost\bin\Debug\EstoqueEntityModel.dll
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\EstoqueService\ProvedorEstoqueHost\bin\Debug\EntityFramework.dll
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\EstoqueService\ProvedorEstoqueHost\bin\Debug\EstoqueLibrary.pdb
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\EstoqueService\ProvedorEstoqueHost\bin\Debug\EstoqueLibrary.dll.config
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\EstoqueService\ProvedorEstoqueHost\bin\Debug\EstoqueEntityModel.pdb
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\EstoqueService\ProvedorEstoqueHost\bin\Debug\EstoqueEntityModel.dll.config
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\EstoqueService\ProvedorEstoqueHost\bin\Debug\EntityFramework.xml
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\EstoqueService\ProvedorEstoqueHost\obj\Debug\ProvedorEstoqueHost.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\EstoqueService\ProvedorEstoqueHost\obj\Debug\ProvedorEstoqueHost.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\EstoqueService\ProvedorEstoqueHost\obj\Debug\ProvedorEstoqueHost.exe
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\EstoqueService\ProvedorEstoqueHost\obj\Debug\ProvedorEstoqueHost.pdb
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\EstoqueService\ProvedorEstoqueHost\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\EstoqueService\ProvedorEstoqueHost\bin\Debug\EntityFramework.SqlServer.xml
