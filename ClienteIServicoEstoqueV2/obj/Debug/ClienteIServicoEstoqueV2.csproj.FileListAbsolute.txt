@@ -1,0 +1,17 @@
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\EstoqueService\ClienteIServicoEstoqueV2\bin\Debug\ClienteIServicoEstoqueV2.exe.config
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\EstoqueService\ClienteIServicoEstoqueV2\bin\Debug\ClienteIServicoEstoqueV2.exe
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\EstoqueService\ClienteIServicoEstoqueV2\bin\Debug\ClienteIServicoEstoqueV2.pdb
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\EstoqueService\ClienteIServicoEstoqueV2\obj\Debug\ClienteIServicoEstoqueV2.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\EstoqueService\ClienteIServicoEstoqueV2\obj\Debug\ClienteIServicoEstoqueV2.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\EstoqueService\ClienteIServicoEstoqueV2\obj\Debug\ClienteIServicoEstoqueV2.exe
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\EstoqueService\ClienteIServicoEstoqueV2\obj\Debug\ClienteIServicoEstoqueV2.pdb
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\EstoqueService\ClienteIServicoEstoqueV2\bin\Debug\EntityFramework.dll
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\EstoqueService\ClienteIServicoEstoqueV2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\EstoqueService\ClienteIServicoEstoqueV2\bin\Debug\EstoqueLibrary.dll
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\EstoqueService\ClienteIServicoEstoqueV2\bin\Debug\EstoqueEntityModel.dll
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\EstoqueService\ClienteIServicoEstoqueV2\bin\Debug\EstoqueLibrary.pdb
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\EstoqueService\ClienteIServicoEstoqueV2\bin\Debug\EstoqueLibrary.dll.config
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\EstoqueService\ClienteIServicoEstoqueV2\bin\Debug\EntityFramework.xml
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\EstoqueService\ClienteIServicoEstoqueV2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\EstoqueService\ClienteIServicoEstoqueV2\bin\Debug\EstoqueEntityModel.pdb
+C:\Users\Fernando\Documents\Visual Studio 2017\Projects\EstoqueService\ClienteIServicoEstoqueV2\bin\Debug\EstoqueEntityModel.dll.config

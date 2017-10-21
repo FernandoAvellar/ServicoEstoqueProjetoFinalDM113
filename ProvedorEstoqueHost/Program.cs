@@ -16,8 +16,10 @@ namespace ProvedorEstoqueHost
             ProvedorEstoqueHost.Open();
             Console.WriteLine("Servico Rodando, pressione uma tecla quando desejar encerrá-lo!");
             Console.ReadLine();
-            Console.WriteLine("Encerrando Servico");
+            Console.WriteLine("Encerrando Serviço ...");
             ProvedorEstoqueHost.Close();
+            Console.WriteLine("Serviço Encerrado, pressione uma tecla para fechar a janela!");
+            Console.ReadLine();
         }
     }
 }
